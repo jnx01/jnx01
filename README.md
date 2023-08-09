@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy Guv'nor! 👋
+
+The name's Naeem, Jahanzeb Naeem. I'm a budding AI/ML engineer with a crazy passion for all things Computer Vision. This place is where I post some of my cool projects. If you like what I'm doing and want to partner up on some project, hit me up! 
 
 <!--
 **jnx01/jnx01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
