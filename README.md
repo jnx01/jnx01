@@ -1,6 +1,6 @@
 ### Hey There! 👋
 
-I'm Jahanzeb Naeem, a AI/ML engineer with 3+ years of industry experience and a crazy passion for all things LLMs. This place is where I post some of my cool projects. If you like what I'm doing and want to partner up on something, hit me up! 
+I'm Jahanzeb Naeem, a AI/ML engineer with 3.5+ years of industry experience and a crazy passion for all things LLMs. This place is where I post some of my cool projects. If you like what I'm doing and want to partner up on something, hit me up! 
 
 <!--
 **jnx01/jnx01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
